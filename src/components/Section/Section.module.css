@@ -1,0 +1,9 @@
+.sectionWrap:not(:last-of-type) {
+  margin-bottom: 40px;
+}
+
+.sectionTitle {
+  margin-bottom: 24px;
+  font-size: 36px;
+  font-weight: 700;
+}

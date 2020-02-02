@@ -1,0 +1,17 @@
+.feedbackButtons {
+  display: flex;
+  align-items: center;
+}
+
+.feedbackButton {
+  padding: 12px 20px;
+  font-size: 18px;
+  background-color: #ccccff;
+  border: none;
+  border-radius: 6px;
+  box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.5);
+  outline: none;
+}
+.feedbackButton:not(:last-of-type) {
+  margin-right: 10px;
+}

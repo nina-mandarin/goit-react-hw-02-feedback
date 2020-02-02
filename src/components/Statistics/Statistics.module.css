@@ -1,0 +1,7 @@
+.statisticsItem {
+  font-size: 18px;
+}
+
+.statisticsItem:not(:last-of-type) {
+  margin-bottom: 8px;
+}
